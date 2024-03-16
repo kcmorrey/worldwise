@@ -1,6 +1,7 @@
 import styles from './Login.module.css';
 import { useState } from 'react';
 import PageNav from '../components/PageNav';
+import { Link } from 'react-router-dom';
 
 export default function Login() {
 	// PRE-FILL FOR DEV PURPOSES
@@ -21,9 +22,11 @@ export default function Login() {
 					<input type="password" id="password" onChange={(e) => setPassword(e.target.value)} value={password} />
 				</div>
 
-				<div>
-					<button>Login</button>
-				</div>
+				<Link to="/app">
+					<div>
+						<button>Login</button>
+					</div>
+				</Link>
 			</form>
 		</main>
 	);
