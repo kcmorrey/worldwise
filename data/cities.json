@@ -1,40 +1,76 @@
 {
-	"cities": [
-		{
-			"cityName": "Lisbon",
-			"country": "Portugal",
-			"emoji": "🇵🇹",
-			"date": "2027-10-31T15:59:59.138Z",
-			"notes": "My favorite city so far!",
-			"position": {
-				"lat": 38.727881642324164,
-				"lng": -9.140900099907554
-			},
-			"id": 73930385
-		},
-		{
-			"cityName": "Madrid",
-			"country": "Spain",
-			"emoji": "🇪🇸",
-			"date": "2027-07-15T08:22:53.976Z",
-			"notes": "",
-			"position": {
-				"lat": 40.46635901755316,
-				"lng": -3.7133789062500004
-			},
-			"id": 17806751
-		},
-		{
-			"cityName": "Berlin",
-			"country": "Germany",
-			"emoji": "🇩🇪",
-			"date": "2027-02-12T09:24:11.863Z",
-			"notes": "Amazing 😃",
-			"position": {
-				"lat": 52.53586782505711,
-				"lng": 13.376933665713324
-			},
-			"id": 98443197
-		}
-	]
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Agde",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-22T00:07:17.292Z",
+      "notes": "",
+      "position": {
+        "lat": "43.31168928024891",
+        "lng": "3.471336364746094"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Palma",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-11T00:10:31.000Z",
+      "notes": "Ehh...",
+      "position": {
+        "lat": "39.52099229357195",
+        "lng": "2.7685546875000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Palermo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-04-16T00:13:22.000Z",
+      "notes": "Cannolis 😍",
+      "position": {
+        "lat": "38.134556577054134",
+        "lng": "13.381347656250002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Arhus",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2023-03-22T00:14:36.000Z",
+      "notes": "Tattoo!",
+      "position": {
+        "lat": "56.139428693863266",
+        "lng": "10.228271484375002"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Copenhagen",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2023-03-18T00:15:55.000Z",
+      "notes": "McDonalds",
+      "position": {
+        "lat": "55.68997171381322",
+        "lng": "12.590332031250002"
+      },
+      "id": 98443202
+    }
+  ]
 }
