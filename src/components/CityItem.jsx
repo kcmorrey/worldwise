@@ -15,10 +15,8 @@ function CityItem({ city }) {
 
 	function handleClick(e) {
 		e.preventDefault();
-		deleteCity(currentCity.id);
+		deleteCity(city.id);
 	}
-
-	//TODO: fix bug where deleting a city without a border does not have an id
 
 	return (
 		<li>

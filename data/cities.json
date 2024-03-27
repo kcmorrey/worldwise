@@ -1,76 +1,100 @@
 {
-  "cities": [
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Agde",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-03-22T00:07:17.292Z",
-      "notes": "",
-      "position": {
-        "lat": "43.31168928024891",
-        "lng": "3.471336364746094"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Palma",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-11T00:10:31.000Z",
-      "notes": "Ehh...",
-      "position": {
-        "lat": "39.52099229357195",
-        "lng": "2.7685546875000004"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Palermo",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2023-04-16T00:13:22.000Z",
-      "notes": "Cannolis 😍",
-      "position": {
-        "lat": "38.134556577054134",
-        "lng": "13.381347656250002"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Arhus",
-      "country": "Denmark",
-      "emoji": "🇩🇰",
-      "date": "2023-03-22T00:14:36.000Z",
-      "notes": "Tattoo!",
-      "position": {
-        "lat": "56.139428693863266",
-        "lng": "10.228271484375002"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Copenhagen",
-      "country": "Denmark",
-      "emoji": "🇩🇰",
-      "date": "2023-03-18T00:15:55.000Z",
-      "notes": "McDonalds",
-      "position": {
-        "lat": "55.68997171381322",
-        "lng": "12.590332031250002"
-      },
-      "id": 98443202
-    }
-  ]
+	"cities": [
+		{
+			"cityName": "Agde",
+			"country": "France",
+			"emoji": "🇫🇷",
+			"date": "2024-03-22T00:07:17.292Z",
+			"notes": "",
+			"position": {
+				"lat": "43.31168928024891",
+				"lng": "3.471336364746094"
+			},
+			"id": 98443198
+		},
+		{
+			"cityName": "Palma",
+			"country": "Spain",
+			"emoji": "🇪🇸",
+			"date": "2023-09-11T00:10:31.000Z",
+			"notes": "Ehh...",
+			"position": {
+				"lat": "39.52099229357195",
+				"lng": "2.7685546875000004"
+			},
+			"id": 98443199
+		},
+		{
+			"cityName": "Palermo",
+			"country": "Italy",
+			"emoji": "🇮🇹",
+			"date": "2023-04-16T00:13:22.000Z",
+			"notes": "Cannolis 😍",
+			"position": {
+				"lat": "38.134556577054134",
+				"lng": "13.381347656250002"
+			},
+			"id": 98443200
+		},
+		{
+			"cityName": "Arhus",
+			"country": "Denmark",
+			"emoji": "🇩🇰",
+			"date": "2023-03-22T00:14:36.000Z",
+			"notes": "Tattoo!",
+			"position": {
+				"lat": "56.139428693863266",
+				"lng": "10.228271484375002"
+			},
+			"id": 98443201
+		},
+		{
+			"cityName": "Copenhagen",
+			"country": "Denmark",
+			"emoji": "🇩🇰",
+			"date": "2023-03-17T19:53:22.000Z",
+			"notes": "💕",
+			"position": {
+				"lat": "55.677584411089526",
+				"lng": "12.590332031250002"
+			},
+			"id": 98443202
+		},
+		{
+			"cityName": "Barcelona",
+			"country": "Spain",
+			"emoji": "🇪🇸",
+			"date": "2016-04-23T19:57:07.000Z",
+			"notes": "💃🪩",
+			"position": {
+				"lat": "41.44272637767212",
+				"lng": "2.1533203125000004"
+			},
+			"id": 98443203
+		},
+		{
+			"cityName": "Chania",
+			"country": "Greece",
+			"emoji": "🇬🇷",
+			"date": "2023-04-11T03:53:34.000Z",
+			"notes": "Bifteka, cats, beach, Sean found his home ",
+			"position": {
+				"lat": "35.513225308679914",
+				"lng": "24.018859863281254"
+			},
+			"id": 98443204
+		},
+		{
+			"cityName": "Glasgow",
+			"country": "United Kingdom of Great Britain and Northern Ireland (the)",
+			"emoji": "🇬🇧",
+			"date": "2023-03-26T03:54:57.000Z",
+			"notes": "⚽️ 🐟 🥢 🍩",
+			"position": {
+				"lat": "55.85064987433714",
+				"lng": "-4.196777343750001"
+			},
+			"id": 98443205
+		}
+	]
 }
